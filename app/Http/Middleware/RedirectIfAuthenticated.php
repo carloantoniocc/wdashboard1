@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace WDashboard\Http\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Auth;
